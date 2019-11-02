@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sun: {fileID: 172588501}
-  secondsInFullDay: 10
+  secondsInFullDay: 30
   currentTimeOfDay: 0
   timeMultiplier: 1
 --- !u!1 &172588499
